@@ -1,0 +1,9 @@
+{
+    "drinkType": "coffee",
+    "size": "large",
+    "milk": "almond",
+    "extras": [
+        "extra shot"
+    ],
+    "name": "Pallab"
+}
